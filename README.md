@@ -1,4 +1,4 @@
-<h1>Kelompok</h1>
+<h1>Anggota Kelompok</h1>
 <div>NIM : 1119101822</div>                   
 <div>Nama : Al Hidayah </div>
 <div></div>
