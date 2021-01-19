@@ -3,4 +3,6 @@
 <div>Nama : Al Hidayah </div>
 <div></div>
 <div>NIM: 1119101828</div>  
-<div>Nama : Alfin Fitrian Akbar</div>  
+<div>Nama : Alfin Fitrian Akbar</div> 
+<div>NIM  : 1119101729</div>
+<div>Nama : Ahmad Fatwa<div> 
